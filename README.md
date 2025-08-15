@@ -10,11 +10,12 @@
 |--------------------|--------------------------------------------------------------|
 | Nama Proyek        | sv-lms-kit                                                   |
 | Jenis Proyek       | Learning Management System (LMS)                             |
-| Framework          | Svelte                                                       |
+| Framework          | Svelte-kit                                                   |
+| Database           | PostgreSQL                                                   |
 | CLI                | sv                                                           |
 | Status             | Proyek pribadi / in-progress                                 |
 | Bahasa Pemrograman | JavaScript / TypeScript                                      |
-| License            | Disesuaikan pemilik repo                                     |
+| License            | MIT                                                          |
 
 ---
 
